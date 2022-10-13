@@ -14,5 +14,4 @@ while (ch=='y') or (ch=='Y'):
     else:
         print("Entered no. is not a prime no.")
     ch=input("Do you want to check more numbers y/n:")
-print("Good bye")
-print("Hope i helped!!")
+print("Good bye \nHope i helped!!")
